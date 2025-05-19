@@ -14,3 +14,19 @@
 .gap-16 {
     gap: 16px;
 }
+
+.text-2xl {
+    font-size: var(--h1);
+}
+
+.text-xl {
+    font-size: var(--h2);
+}
+
+.text-lg{
+    font-size: var(--h3);
+}
+
+.text-sm {
+    font-size: var(--text-sm);
+}
